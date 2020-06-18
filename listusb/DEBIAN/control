@@ -1,0 +1,8 @@
+Package: listusb
+Version: 1.0
+Section: custom
+Architecture: all
+Essential: no
+Installed-Size: 1024
+Maintainer: listusb.com
+Description: Simple tool to list USB devices
